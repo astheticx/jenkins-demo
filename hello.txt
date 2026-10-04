@@ -1,0 +1,2 @@
+Hello from Jenkins!
+This file is fetched from GitHub.
